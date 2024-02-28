@@ -10,4 +10,4 @@ https://www.jetbrains.com/idea/download/?section=mac
 
 ## SET UP SELENIUM
 1. Open Maven Project 
-2. Add seleium 
+2. Add seleiu
