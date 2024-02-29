@@ -1,6 +1,6 @@
 # Hands-OnExercisesForSelenium_IBM
 
-## prerequisite
+## Prerequisite
 Download JDK from the link below and double click on the .exe file to install
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
